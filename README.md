@@ -5,11 +5,11 @@ See all applied pathces [here](https://github.com/HmJustHanna/dwm/tree/main/patc
 
 # Screenshots
 
-![](/assets/images/dmenu.png)
+![](/assets/dmenu.png)
 
-![](/assets/images/dmenu-killdwm.png)
+![](/assets/dmenu-killdwm.png)
 
-![](/assets/images/dmenu-websearch.png)
+![](/assets/dmenu-websearch.png)
 
 # Other
 
